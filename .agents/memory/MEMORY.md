@@ -1,0 +1,1 @@
+- [Firebase client architecture](firebase-client-architecture.md) — App TKD uses Firebase Web SDK, with user-scoped Firestore/Storage and persistent offline caching.
